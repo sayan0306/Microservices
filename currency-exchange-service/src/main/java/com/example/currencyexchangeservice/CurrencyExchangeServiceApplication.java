@@ -1,5 +1,6 @@
 package com.example.currencyexchangeservice;
 
+import io.micrometer.core.aop.MeterTag;
 import io.micrometer.observation.Observation;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
